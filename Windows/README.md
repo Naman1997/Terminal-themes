@@ -3,7 +3,7 @@
 # ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzH2tRzADePJGqGeir-NDrKF96YIw8S_Xl6w&usqp=CAU)
 
 
-Create a PROFILE file if it does not already exists and paste the contents of PROFILE file in it.
+Create a PROFILE file if it does not already exists and paste the contents of [PROFILE](https://github.com/Naman1997/Terminal-themes/blob/main/Windows/PROFILE) file in it.
 ```
 notepad $PROFILE
 ```
