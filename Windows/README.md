@@ -27,4 +27,4 @@ For "Cascadia Code PL" dependency:
 - Install CascadiaCode-*\ttf\CascadiaCodePL.ttf
 
 
-Now, take a backup of your settings.json by selecting Settings (Ctrl+,) from your Windows Terminal dropdown menu. This can also be done using the settings UI if you have it enabled. Copy the settings.json file from this repo, paste it in your settings.json and hit save. Your settings should be updated after restarting the terminal.
+Now, take a backup of your settings.json by selecting Settings (Ctrl+,) from your Windows Terminal dropdown menu. This can also be done using the settings UI if you have it enabled. Copy the [settings.json](https://github.com/Naman1997/Terminal-themes/blob/main/Windows/settings.json) file from this repo, paste it in your settings.json and hit save. Your settings should be updated after restarting the terminal.
