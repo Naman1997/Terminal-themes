@@ -1,3 +1,5 @@
+## Install
+
 This readme is specifically for installing this config of oh-my-zsh in arch linux. Some commands might be different depending on your distro.
 
 ```
@@ -16,6 +18,9 @@ Now cd into the dir where you keep your github repos.
 git clone https://github.com/Naman1997/Terminal-themes.git
 cp Terminal-themes/zsh/.z* ~
 ```
+
+
+## Uninstall
 
 
 To uninstall:
