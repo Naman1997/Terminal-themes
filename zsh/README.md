@@ -1,6 +1,6 @@
 ## Install
 
-This readme is specifically for installing this config of oh-my-zsh in arch linux. Some commands might be different depending on your distro.
+This guide is specifically for installing this config of oh-my-zsh in arch linux. Some commands might be different depending on your distro.
 
 ```
 sudo pacman -S wget zsh
@@ -23,7 +23,7 @@ cp Terminal-themes/zsh/.z* ~
 ## Uninstall
 
 
-To uninstall:
+Make sure that you do not have any other files that match ~/.z* before running the 'rm' command below.
 ```
-uninstall_oh_my_zsh && rm -rf .z*
+uninstall_oh_my_zsh && rm -rf ~/.z*
 ```
