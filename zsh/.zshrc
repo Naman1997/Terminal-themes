@@ -100,6 +100,8 @@ export LANG=en_US.UTF-8
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-neofetch --disable model resolution wm_theme wm theme icons packages uptime de shell term --ascii_distro Arch_small --color_blocks off
+# Uncomment for usage in non-vm environments
+# neofetch --disable model resolution wm_theme wm theme icons packages uptime de shell term --ascii_distro Arch_small --color_blocks off
+figlet `hostname`
 
 export GOPATH=$(go env GOPATH)
