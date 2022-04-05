@@ -104,4 +104,4 @@ export LANG=en_US.UTF-8
 # neofetch --disable model resolution wm_theme wm theme icons packages uptime de shell term --ascii_distro Arch_small --color_blocks off
 figlet `hostname`
 
-export GOPATH=$(go env GOPATH)
+# export GOPATH=$(go env GOPATH)
