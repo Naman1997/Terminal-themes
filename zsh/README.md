@@ -22,6 +22,7 @@ Now cd into the dir where you keep your github repos.
 ```
 git clone https://github.com/Naman1997/Terminal-themes.git
 cp Terminal-themes/zsh/.z* ~
+rm -rf Terminal-themes/
 ```
 
 
