@@ -3,7 +3,7 @@
 This guide is specifically for installing this config of oh-my-zsh in arch linux. Some commands might be different depending on your distro.
 
 ```
-sudo pacman -S wget zsh figlet inetutils
+sudo pacman -S wget zsh figlet inetutils git
 sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
